@@ -1,47 +1,36 @@
+# Flutter Expanse-Tracker App
+
+Now it's easy to manage your weekly expanses with the help of Expanse-Tracker!
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/yuvraj0028/Expanse-Tracker.git
+```
+
+Go to the project directory
+
+```bash
+  cd Expanse-Tracker
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Run app
+
+```bash
+  flutter run
+```
 
 
-# Expense Tracker Mobile App
+## ScreenShots
 
-## Overview
-This project is a simple yet functional **Expense Tracker Mobile Application** built using Dart with Flutter. After gaining experience in developing a web-based expense tracker, I decided to extend my knowledge and apply it to mobile app development. The app is designed to help users manage their daily expenses efficiently by adding, viewing, and categorizing transactions.
+<img src="https://user-images.githubusercontent.com/96447724/223355467-ef26a9e4-0326-4313-8a31-08a2859bf839.jpg" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/96447724/223359723-f1249f97-dc00-41c6-b493-4ff2596a53ad.jpg" width="200" height="400" />
 
-## Features
-- Add new transactions with a title, amount, and date.
-- View recent transactions and overall expenses.
-- Toggle between chart and list views for a clear visual representation of expenses.
-- Delete transactions as needed.
-
-## Technologies Used
-- **Dart**: Programming language used for app logic.
-- **Flutter**: Framework used for building the mobile user interface and handling cross-platform development.
-
-## Getting Started
-
-### Prerequisites
-- [Flutter SDK](https://flutter.dev/docs/get-started/install) should be installed on your machine.
-- A suitable code editor, like [Visual Studio Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio).
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/WesleyBluish/Flutter_expense_tracker
-   cd expense_tracker_application
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app:**
-   - On an emulator or a connected device, execute:
-     ```bash
-     flutter run
-     ```
-
-
-## Future Enhancements
-- Integration of data persistence (e.g., local storage or database).
-- Implementing charts to provide better visual insight into spending habits.
-- Adding categories to group expenses.
+<img src="https://user-images.githubusercontent.com/96447724/223360001-4b78d57e-ed10-41c3-996b-a3091314b9aa.jpg" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/96447724/223360348-91756d0a-8366-40fc-ae89-ac3ba9d5e011.jpg" width="200" height="400" />

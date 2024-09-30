@@ -1,6 +1,4 @@
-Here’s a refined version of your description, along with a structured `README.md` for your Flutter Expense Tracker mobile app:
 
----
 
 # Expense Tracker Mobile App
 
